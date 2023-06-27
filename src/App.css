@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.desc{
+    color: white;
+}
+
+body{
+    background-color: rgb(109, 137, 148);
+    width: 80%;
+    text-align: center;
+    
+}
+
+.task{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+
+.todo{
+    color: white;
+    margin-top: 10px;
+}
+.new{
+    color: white;
+}
+.label{
+    color: white;
+}
+.input{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: aliceblue;
+    width: 250px;
+    margin-bottom: 10px;
+}
+.input-btn{
+    width: 60px;
+    background: ghostwhite;
+}
+.no-task{
+    margin-top: 10px;
+}
